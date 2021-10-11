@@ -17,6 +17,8 @@ for (const file of commandFiles) {
   client.commands.set(command.name, command);
 }
 
+
+
 client.once('ready', () => {
   console.log('BOT ONLINE AND READY!');
 });
