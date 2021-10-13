@@ -9,8 +9,8 @@
   "author": "Desmond",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3",
-    "dotenv": "^10.0.0",
-    "mongoose": "^5.12.14"
+    "discord.js": "^13.2",
+    "dotenv": "^10.0",
+    "mongoose": "^6.0"
   }
 }
